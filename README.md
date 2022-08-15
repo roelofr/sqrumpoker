@@ -36,3 +36,5 @@ The server exposes a bunch of basic APIs, which are described in our `openapi` c
 ### The React client
 
 > *Note*: Todo
+
+[quintor]: https://www.quintor.nl/
